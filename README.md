@@ -10,11 +10,11 @@ Open the terminal, navigate to the location where the script is stored, and gran
   ~% chmod u+x m4b.sh
 ```
 You can run the script as shown below, and the battery logs will be generated in CSV format in the same folder as the script.
-  
+```
   ~% bash m4b.sh
-  
+```
 You can view detailed options by entering -h or --help.
-  
+```
 ~% bash m4b.sh -h
         -h | --help : Display script options.
 
@@ -42,4 +42,4 @@ You can view detailed options by entering -h or --help.
         -c | --clear : Terminate unnecessary processes, except those required for OS operation, to measure battery consumption.
         example) bash m4b.sh -c
         example) bash m4b.sh --clear
-  
+```
