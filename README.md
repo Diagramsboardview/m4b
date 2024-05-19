@@ -5,10 +5,10 @@ M4B was created to test the battery performance on MacBooks
 Below script is a Bash script. After downloading, you need to grant execution permissions using the following command in a suitable location
 
 Open the terminal, navigate to the location where the script is stored, and grant execution permissions.
-  
+```
   ~% cd ~/Documents/
   ~% chmod u+x m4b.sh
-  
+```
 You can run the script as shown below, and the battery logs will be generated in CSV format in the same folder as the script.
   
   ~% bash m4b.sh
