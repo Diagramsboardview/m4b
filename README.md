@@ -2,9 +2,14 @@
 M4B was created to test the battery performance on MacBooks
 
 # Confirmed Support versions
-Ventura macOS 13.3.1 (a) (22E772610a)
+A1708 Ventura macOS 13.3.1 (a) (22E772610a)
 
-Sonoma macOS 14.3.1 (23D60)
+A2337 Sonoma macOS 14.3.1 (23D60)
+
+# Supported architectures
+Intel CPU
+
+Apple M1
 
 # Before execute script
 To measure battery consumption, please close all unnecessary programs on your MacBook and maximize the brightness
