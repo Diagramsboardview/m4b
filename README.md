@@ -13,7 +13,7 @@ You can run the script as shown below, and the battery logs will be generated in
 
 You can view detailed options by entering -h or --help.
   ~% bash m4b.sh -h
-          -h | --help : Display script options.
+        -h | --help : Display script options.
 
 
         -n | --network : Activate network mode. If this option is not used, it will default to the network option during execution.
