@@ -28,6 +28,10 @@ You can disable this collection by referring to the script's help documentation.
 # How to use
 Below script is a Bash script. After downloading, you need to grant execution permissions using the following command in a suitable location
 
+Please ensure that the battery is at __100%__ before running the script. If the script prompts you to unplug the charger after it starts, you can proceed by unplugging it at that time
+
+You can conduct the test even if the battery is not at 100%, but it is recommended to perform it at 100%.
+
 Open the terminal, navigate to the location where the script is stored, and grant execution permissions.
 ```
   ~% cd ~/Documents/
