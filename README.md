@@ -1,6 +1,30 @@
 # m4b
 M4B was created to test the battery performance on MacBooks
 
+# Before execute script
+To measure battery consumption, please close all unnecessary programs on your MacBook and maximize the brightness
+
+# Features
+This script provides the following functionalities:
+
+1. Online Record
+ -> Online logging allows you to log battery data online. This feature is available only to members registered on https://diagramsboardview.com.
+
+# The information collected by the script includes
+M4B collects the following information for various purposes.
+
+1. Device Serial Number
+2. Device Architecture
+3. Software Version
+4. Battery Design Capacity
+5. Battery Serial Number
+6. Battery Max Capacity
+7. Battery Cycle
+8. Battery Voltage
+9. Network IP Address
+
+You can disable this collection by referring to the script's help documentation.
+
 # How to use
 Below script is a Bash script. After downloading, you need to grant execution permissions using the following command in a suitable location
 
