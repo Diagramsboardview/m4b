@@ -1,8 +1,14 @@
 # m4b
 M4B was created to test the battery performance on MacBooks
 
+# Supported versions
+Ventura macOS 13.3.1 (a) (22E772610a)
+Sonoma macOS 14.3.1 (23D60)
+
 # Before execute script
 To measure battery consumption, please close all unnecessary programs on your MacBook and maximize the brightness
+
+Please deactivate the 'turn off display when battery power' feature in power management, and disable the screensaver
 
 # Features
 This script provides the following functionalities:
