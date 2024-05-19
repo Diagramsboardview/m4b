@@ -1,7 +1,7 @@
 # m4b
 M4B was created to test the battery performance on MacBooks
 
-# Supported versions
+# Confirmed Support versions
 Ventura macOS 13.3.1 (a) (22E772610a)
 
 Sonoma macOS 14.3.1 (23D60)
