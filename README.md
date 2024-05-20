@@ -56,6 +56,9 @@ You can run the script as shown below, and the battery logs will be generated in
 You can view detailed options by entering -h or --help.
 ```
 ~% bash m4b.sh -h
+```
+
+# Options
         -h | --help : Display script options.
 
 
@@ -82,4 +85,3 @@ You can view detailed options by entering -h or --help.
         -c | --clear : Terminate unnecessary processes, except those required for OS operation, to measure battery consumption.
         example) bash m4b.sh -c
         example) bash m4b.sh --clear
-```
