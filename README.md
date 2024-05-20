@@ -82,6 +82,6 @@ You can view detailed options by entering -h or --help.
    example) bash m4b.sh --threads-mode yes
 
 
-        -c | --clear : Terminate unnecessary processes, except those required for OS operation, to measure battery consumption.
-        example) bash m4b.sh -c
-        example) bash m4b.sh --clear
+   -c | --clear : Terminate unnecessary processes, except those required for OS operation, to measure battery consumption.
+   example) bash m4b.sh -c
+   example) bash m4b.sh --clear
